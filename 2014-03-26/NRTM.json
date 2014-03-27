@@ -20,12 +20,26 @@
       "strengthOfSchedule" : 20
     },
     {
-      "id" : 4,
+      "id" : 5,
       "corpFaction" : "Haas-Bioroid",
       "matchPoints" : 0,
       "corpIdentity" : "The Shadow",
       "runnerFaction" : "Anarch",
       "rank" : 2,
+      "weakSideWins" : 1,
+      "forfeit" : false,
+      "prestige" : 8,
+      "runnerIdentity" : "The Masque",
+      "name" : "Scott",
+      "strengthOfSchedule" : 17
+    },
+    {
+      "id" : 4,
+      "corpFaction" : "Haas-Bioroid",
+      "matchPoints" : 0,
+      "corpIdentity" : "The Shadow",
+      "runnerFaction" : "Anarch",
+      "rank" : 3,
       "weakSideWins" : 1,
       "forfeit" : false,
       "prestige" : 8,
@@ -39,30 +53,16 @@
       "matchPoints" : 0,
       "corpIdentity" : "The Shadow",
       "runnerFaction" : "Anarch",
-      "rank" : 3,
-      "weakSideWins" : 1,
-      "forfeit" : false,
-      "prestige" : 6,
-      "runnerIdentity" : "The Masque",
-      "name" : "Jerome",
-      "strengthOfSchedule" : 22
-    },
-    {
-      "id" : 2,
-      "corpFaction" : "Haas-Bioroid",
-      "matchPoints" : 0,
-      "corpIdentity" : "The Shadow",
-      "runnerFaction" : "Anarch",
       "rank" : 4,
       "weakSideWins" : 1,
       "forfeit" : false,
       "prestige" : 6,
       "runnerIdentity" : "The Masque",
-      "name" : "William",
-      "strengthOfSchedule" : 18
+      "name" : "Jerome",
+      "strengthOfSchedule" : 24
     },
     {
-      "id" : 5,
+      "id" : 2,
       "corpFaction" : "Haas-Bioroid",
       "matchPoints" : 0,
       "corpIdentity" : "The Shadow",
@@ -72,8 +72,8 @@
       "forfeit" : false,
       "prestige" : 6,
       "runnerIdentity" : "The Masque",
-      "name" : "Scott",
-      "strengthOfSchedule" : 17
+      "name" : "William",
+      "strengthOfSchedule" : 20
     },
     {
       "id" : 6,
@@ -87,7 +87,7 @@
       "prestige" : 5,
       "runnerIdentity" : "The Masque",
       "name" : "Chris",
-      "strengthOfSchedule" : 10
+      "strengthOfSchedule" : 12
     },
     {
       "id" : 1,
@@ -201,7 +201,7 @@
       {
         "player1" : {
           "id" : 5,
-          "runnerScore" : 0,
+          "runnerScore" : 2,
           "corpScore" : 2
         },
         "game1WonBy" : "ap",
