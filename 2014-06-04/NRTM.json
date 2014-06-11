@@ -1,0 +1,669 @@
+{
+  "preliminaryRounds" : 5,
+  "links" : {
+    "rel" : "describedby",
+    "href" : "http:\/\/steffens.org\/nrtm\/nrtm-schema.json"
+  },
+  "rounds" : [
+    [
+      {
+        "player2" : {
+          "id" : 2,
+          "runnerScore" : 2,
+          "corpScore" : 2
+        },
+        "game2WonBy" : "ap",
+        "eliminationGame" : false,
+        "table" : 1,
+        "player1" : {
+          "id" : 5,
+          "runnerScore" : 0,
+          "corpScore" : 0
+        },
+        "game1WonBy" : "ap"
+      },
+      {
+        "player2" : {
+          "id" : 7,
+          "runnerScore" : 0,
+          "corpScore" : 0
+        },
+        "game2WonBy" : "ap",
+        "eliminationGame" : false,
+        "table" : 2,
+        "player1" : {
+          "id" : 6,
+          "runnerScore" : 2,
+          "corpScore" : 2
+        },
+        "game1WonBy" : "ap"
+      },
+      {
+        "player2" : {
+          "id" : 0,
+          "runnerScore" : 2,
+          "corpScore" : 0
+        },
+        "game2WonBy" : "ap",
+        "eliminationGame" : false,
+        "table" : 3,
+        "player1" : {
+          "id" : 4,
+          "runnerScore" : 2,
+          "corpScore" : 0
+        },
+        "game1WonBy" : "ap"
+      },
+      {
+        "player2" : {
+          "id" : 3,
+          "runnerScore" : 0,
+          "corpScore" : 0
+        },
+        "game2WonBy" : "ap",
+        "eliminationGame" : false,
+        "table" : 4,
+        "player1" : {
+          "id" : 1,
+          "runnerScore" : 2,
+          "corpScore" : 2
+        },
+        "game1WonBy" : "ap"
+      }
+    ],
+    [
+      {
+        "player2" : {
+          "id" : 2,
+          "runnerScore" : 2,
+          "corpScore" : 2
+        },
+        "game2WonBy" : "ap",
+        "eliminationGame" : false,
+        "table" : 1,
+        "player1" : {
+          "id" : 6,
+          "runnerScore" : 0,
+          "corpScore" : 0
+        },
+        "game1WonBy" : "ap"
+      },
+      {
+        "player2" : {
+          "id" : 0,
+          "runnerScore" : 2,
+          "corpScore" : 2
+        },
+        "game2WonBy" : "ap",
+        "eliminationGame" : false,
+        "table" : 2,
+        "player1" : {
+          "id" : 1,
+          "runnerScore" : 0,
+          "corpScore" : 0
+        },
+        "game1WonBy" : "flatline"
+      },
+      {
+        "player2" : {
+          "id" : 7,
+          "runnerScore" : 0,
+          "corpScore" : 0
+        },
+        "game2WonBy" : "ap",
+        "eliminationGame" : false,
+        "table" : 3,
+        "player1" : {
+          "id" : 4,
+          "runnerScore" : 2,
+          "corpScore" : 2
+        },
+        "game1WonBy" : "ap"
+      },
+      {
+        "player2" : {
+          "id" : 3,
+          "runnerScore" : 1,
+          "corpScore" : 0
+        },
+        "game2WonBy" : "ap",
+        "eliminationGame" : false,
+        "table" : 4,
+        "player1" : {
+          "id" : 5,
+          "runnerScore" : 2,
+          "corpScore" : 1
+        },
+        "game1WonBy" : "ap"
+      }
+    ],
+    [
+      {
+        "player2" : {
+          "id" : 4,
+          "runnerScore" : 0,
+          "corpScore" : 0
+        },
+        "game2WonBy" : "ap",
+        "eliminationGame" : false,
+        "table" : 1,
+        "player1" : {
+          "id" : 2,
+          "runnerScore" : 2,
+          "corpScore" : 2
+        },
+        "game1WonBy" : "ap"
+      },
+      {
+        "player2" : {
+          "id" : 6,
+          "runnerScore" : 2,
+          "corpScore" : 2
+        },
+        "game2WonBy" : "ap",
+        "eliminationGame" : false,
+        "table" : 2,
+        "player1" : {
+          "id" : 0,
+          "runnerScore" : 0,
+          "corpScore" : 0
+        },
+        "game1WonBy" : "ap"
+      },
+      {
+        "player2" : {
+          "id" : 5,
+          "runnerScore" : 1,
+          "corpScore" : 2
+        },
+        "game2WonBy" : "ap",
+        "eliminationGame" : false,
+        "table" : 3,
+        "player1" : {
+          "id" : 1,
+          "runnerScore" : 0,
+          "corpScore" : 1
+        },
+        "game1WonBy" : "ap"
+      },
+      {
+        "player2" : {
+          "id" : 7,
+          "runnerScore" : 2,
+          "corpScore" : 2
+        },
+        "game2WonBy" : "ap",
+        "eliminationGame" : false,
+        "table" : 4,
+        "player1" : {
+          "id" : 3,
+          "runnerScore" : 0,
+          "corpScore" : 0
+        },
+        "game1WonBy" : "ap"
+      }
+    ],
+    [
+      {
+        "player2" : {
+          "id" : 0,
+          "runnerScore" : 0,
+          "corpScore" : 2
+        },
+        "game2WonBy" : "ap",
+        "eliminationGame" : false,
+        "table" : 1,
+        "player1" : {
+          "id" : 2,
+          "runnerScore" : 0,
+          "corpScore" : 2
+        },
+        "game1WonBy" : "flatline"
+      },
+      {
+        "player2" : {
+          "id" : 5,
+          "runnerScore" : 0,
+          "corpScore" : 0
+        },
+        "game2WonBy" : "ap",
+        "eliminationGame" : false,
+        "table" : 2,
+        "player1" : {
+          "id" : 6,
+          "runnerScore" : 1,
+          "corpScore" : 2
+        },
+        "game1WonBy" : "ap"
+      },
+      {
+        "player2" : {
+          "id" : 3,
+          "runnerScore" : 2,
+          "corpScore" : 0
+        },
+        "game2WonBy" : "ap",
+        "eliminationGame" : false,
+        "table" : 3,
+        "player1" : {
+          "id" : 4,
+          "runnerScore" : 2,
+          "corpScore" : 0
+        },
+        "game1WonBy" : "ap"
+      },
+      {
+        "player2" : {
+          "id" : 7,
+          "runnerScore" : 2,
+          "corpScore" : 2
+        },
+        "game2WonBy" : "ap",
+        "eliminationGame" : false,
+        "table" : 4,
+        "player1" : {
+          "id" : 1,
+          "runnerScore" : 0,
+          "corpScore" : 0
+        },
+        "game1WonBy" : "ap"
+      }
+    ],
+    [
+      {
+        "player2" : {
+          "id" : 1,
+          "runnerScore" : 1,
+          "corpScore" : 1
+        },
+        "game2WonBy" : "ap",
+        "eliminationGame" : false,
+        "table" : 1,
+        "player1" : {
+          "id" : 2,
+          "runnerScore" : 1,
+          "corpScore" : 1
+        },
+        "game1WonBy" : "ap"
+      },
+      {
+        "player2" : {
+          "id" : 4,
+          "runnerScore" : 0,
+          "corpScore" : 2
+        },
+        "game2WonBy" : "ap",
+        "eliminationGame" : false,
+        "table" : 2,
+        "player1" : {
+          "id" : 6,
+          "runnerScore" : 0,
+          "corpScore" : 2
+        },
+        "game1WonBy" : "flatline"
+      },
+      {
+        "player2" : {
+          "id" : 3,
+          "runnerScore" : 1,
+          "corpScore" : 1
+        },
+        "game2WonBy" : "ap",
+        "eliminationGame" : false,
+        "table" : 3,
+        "player1" : {
+          "id" : 0,
+          "runnerScore" : 1,
+          "corpScore" : 1
+        },
+        "game1WonBy" : "ap"
+      },
+      {
+        "player2" : {
+          "id" : 7,
+          "runnerScore" : 0,
+          "corpScore" : 2
+        },
+        "game2WonBy" : "ap",
+        "eliminationGame" : false,
+        "table" : 4,
+        "player1" : {
+          "id" : 5,
+          "runnerScore" : 0,
+          "corpScore" : 2
+        },
+        "game1WonBy" : "ap"
+      }
+    ],
+    [
+      {
+        "player2" : {
+          "id" : 1,
+          "role" : "R",
+          "winner" : false
+        },
+        "eliminationGame" : true,
+        "table" : 1,
+        "player1" : {
+          "id" : 2,
+          "role" : "C",
+          "winner" : true
+        },
+        "gameWonBy" : "ap"
+      },
+      {
+        "player2" : {
+          "id" : 7,
+          "role" : "R",
+          "winner" : true
+        },
+        "eliminationGame" : true,
+        "table" : 2,
+        "player1" : {
+          "id" : 0,
+          "role" : "C",
+          "winner" : false
+        },
+        "gameWonBy" : "ap"
+      },
+      {
+        "player2" : {
+          "id" : 3,
+          "role" : "R",
+          "winner" : false
+        },
+        "eliminationGame" : true,
+        "table" : 3,
+        "player1" : {
+          "id" : 6,
+          "role" : "C",
+          "winner" : true
+        },
+        "gameWonBy" : "ap"
+      },
+      {
+        "player2" : {
+          "id" : 5,
+          "role" : "R",
+          "winner" : false
+        },
+        "eliminationGame" : true,
+        "table" : 4,
+        "player1" : {
+          "id" : 4,
+          "role" : "C",
+          "winner" : true
+        },
+        "gameWonBy" : "ap"
+      }
+    ],
+    [
+      {
+        "player2" : {
+          "id" : 7,
+          "role" : "C",
+          "winner" : false
+        },
+        "eliminationGame" : true,
+        "table" : 1,
+        "player1" : {
+          "id" : 2,
+          "role" : "R",
+          "winner" : true
+        },
+        "gameWonBy" : "ap"
+      },
+      {
+        "player2" : {
+          "id" : 4,
+          "role" : "R",
+          "winner" : false
+        },
+        "eliminationGame" : true,
+        "table" : 2,
+        "player1" : {
+          "id" : 6,
+          "role" : "C",
+          "winner" : true
+        },
+        "gameWonBy" : "ap"
+      },
+      {
+        "player2" : {
+          "id" : 0,
+          "role" : "C",
+          "winner" : true
+        },
+        "eliminationGame" : true,
+        "table" : 3,
+        "player1" : {
+          "id" : 1,
+          "role" : "R",
+          "winner" : false
+        },
+        "gameWonBy" : "ap"
+      },
+      {
+        "player2" : {
+          "id" : 5,
+          "role" : "C",
+          "winner" : true
+        },
+        "eliminationGame" : true,
+        "table" : 4,
+        "player1" : {
+          "id" : 3,
+          "role" : "R",
+          "winner" : false
+        },
+        "gameWonBy" : "flatline"
+      }
+    ],
+    [
+      {
+        "player2" : {
+          "id" : 6,
+          "role" : "R",
+          "winner" : true
+        },
+        "eliminationGame" : true,
+        "table" : 1,
+        "player1" : {
+          "id" : 2,
+          "role" : "C",
+          "winner" : false
+        },
+        "gameWonBy" : "ap"
+      },
+      {
+        "player2" : {
+          "id" : 4,
+          "role" : "C",
+          "winner" : false
+        },
+        "eliminationGame" : true,
+        "table" : 2,
+        "player1" : {
+          "id" : 0,
+          "role" : "R",
+          "winner" : true
+        },
+        "gameWonBy" : "ap"
+      },
+      {
+        "player2" : {
+          "id" : 7,
+          "role" : "R",
+          "winner" : true
+        },
+        "eliminationGame" : true,
+        "table" : 3,
+        "player1" : {
+          "id" : 5,
+          "role" : "C",
+          "winner" : false
+        },
+        "gameWonBy" : "mill"
+      }
+    ],
+    [
+      {
+        "player2" : {
+          "id" : 7,
+          "role" : "C",
+          "winner" : true
+        },
+        "eliminationGame" : true,
+        "table" : 1,
+        "player1" : {
+          "id" : 0,
+          "role" : "R",
+          "winner" : false
+        },
+        "gameWonBy" : "ap"
+      }
+    ],
+    [
+      {
+        "player2" : {
+          "id" : 2,
+          "role" : "R",
+          "winner" : true
+        },
+        "eliminationGame" : true,
+        "table" : 1,
+        "player1" : {
+          "id" : 7,
+          "role" : "C",
+          "winner" : false
+        },
+        "gameWonBy" : "ap"
+      }
+    ],
+    [
+      {
+        "player2" : {
+          "id" : 2,
+          "role" : "C",
+          "winner" : false
+        },
+        "eliminationGame" : true,
+        "table" : 1,
+        "player1" : {
+          "id" : 6,
+          "role" : "R",
+          "winner" : true
+        },
+        "gameWonBy" : "ap"
+      }
+    ]
+  ],
+  "name" : "My Tournament",
+  "cutToTop" : 8,
+  "players" : [
+    {
+      "prestige" : 13,
+      "runnerFaction" : "Anarch",
+      "corpFaction" : "Haas-Bioroid",
+      "id" : 6,
+      "strengthOfSchedule" : 54,
+      "rank" : 1,
+      "weakSideWins" : 3,
+      "forfeit" : false,
+      "runnerIdentity" : "The Masque",
+      "name" : "KB",
+      "corpIdentity" : "The Shadow"
+    },
+    {
+      "prestige" : 16,
+      "runnerFaction" : "Anarch",
+      "corpFaction" : "Haas-Bioroid",
+      "id" : 2,
+      "strengthOfSchedule" : 48,
+      "rank" : 2,
+      "weakSideWins" : 3,
+      "forfeit" : false,
+      "runnerIdentity" : "The Masque",
+      "name" : "Peter",
+      "corpIdentity" : "The Shadow"
+    },
+    {
+      "prestige" : 10,
+      "runnerFaction" : "Anarch",
+      "corpFaction" : "Haas-Bioroid",
+      "id" : 7,
+      "strengthOfSchedule" : 43,
+      "rank" : 3,
+      "weakSideWins" : 2,
+      "forfeit" : false,
+      "runnerIdentity" : "The Masque",
+      "name" : "Jeff",
+      "corpIdentity" : "The Shadow"
+    },
+    {
+      "prestige" : 10,
+      "runnerFaction" : "Anarch",
+      "corpFaction" : "Haas-Bioroid",
+      "id" : 0,
+      "strengthOfSchedule" : 51,
+      "rank" : 4,
+      "weakSideWins" : 2,
+      "forfeit" : false,
+      "runnerIdentity" : "The Masque",
+      "name" : "Jerome",
+      "corpIdentity" : "The Shadow"
+    },
+    {
+      "prestige" : 10,
+      "runnerFaction" : "Anarch",
+      "corpFaction" : "Haas-Bioroid",
+      "id" : 4,
+      "strengthOfSchedule" : 54,
+      "rank" : 5,
+      "weakSideWins" : 2,
+      "forfeit" : false,
+      "runnerIdentity" : "The Masque",
+      "name" : "Michael",
+      "corpIdentity" : "The Shadow"
+    },
+    {
+      "prestige" : 8,
+      "runnerFaction" : "Anarch",
+      "corpFaction" : "Haas-Bioroid",
+      "id" : 5,
+      "strengthOfSchedule" : 51,
+      "rank" : 6,
+      "weakSideWins" : 1,
+      "forfeit" : false,
+      "runnerIdentity" : "The Masque",
+      "name" : "Scott",
+      "corpIdentity" : "The Shadow"
+    },
+    {
+      "prestige" : 5,
+      "runnerFaction" : "Anarch",
+      "corpFaction" : "Haas-Bioroid",
+      "id" : 3,
+      "strengthOfSchedule" : 45,
+      "rank" : 7,
+      "weakSideWins" : 0,
+      "forfeit" : false,
+      "runnerIdentity" : "The Masque",
+      "name" : "KG",
+      "corpIdentity" : "The Shadow"
+    },
+    {
+      "prestige" : 7,
+      "runnerFaction" : "Anarch",
+      "corpFaction" : "Haas-Bioroid",
+      "id" : 1,
+      "strengthOfSchedule" : 49,
+      "rank" : 8,
+      "weakSideWins" : 1,
+      "forfeit" : true,
+      "runnerIdentity" : "The Masque",
+      "name" : "Gelman (forfeit)",
+      "corpIdentity" : "The Shadow"
+    }
+  ]
+}
